@@ -1,0 +1,67 @@
+sportdirect.com
+
+wyjœciowa cena
+//*[@id="BuyTicketPrice2"]
+<span id="BuyTicketPrice2">L29.99</span>
+
+aktualna cena 
+//*[@id="BuySellingPrice2"]
+<span id="BuySellingPrice2">L5.99</span>
+
+kod produktu
+<p class="productCode">Product code: 664078</p>
+
+przyda siê jeszcze kolor oraz rozmiar oraz iloœæ
+
+bez ceny pocz¹tkowej
+http://www.sportsdirect.com/new-balance-m1260-v2-mens-running-shoes-212154
+z cen¹ pocz¹tkow¹
+http://www.sportsdirect.com/karrimor-trail-mens-running-shoes-213099?colcode=21309902
+
+product name
+<span id="ProductName">Airwalk Neptune Shoes Mens</span>
+
+
+opis przedmiotu:
+<div id="rpvInfo" class="infoPage featurestext" style="overflow:auto;width:100%;height:100%;">
+			
+        <div class="infoTabPageContainer">
+            <div class="infoTabPage">
+                <h2>Pele 1958 MS FG Mens Football Boots</h2>
+<br>The <b>Pele 1958 MS FG Mens Football Boots</b> offer a superb fit thanks to traditional centred lacing and a stitched leather panel finish to the forefoot, allowing for excellent ball control and optimum comfort on the pitch.
+<br>
+<br>These <b>mens Pele football boots</b> feature Dual Friction Technology for close ball control and an EVA midsole offering support and shock absorption, and are rounded off with a selection of L-shaped moulded studs to the soleplate for terrific traction on firm pitches.
+<br>
+<br>&gt; <b>Mens football boots</b>
+<br>&gt; Lace up
+<br>&gt; Shaped ankle
+<br>&gt; Stitched leather forefoot
+<br>&gt; Dual Friction technology
+<br>&gt; EVA midsole
+<br>&gt; Durable soleplate
+<br>&gt; Moulded studs for firm ground
+<br>&gt; Pele signature
+<br>&gt; Leather/Synthetic upper, Textile inner, Synthetic sole
+<br>
+<br>Discover a huge selection of <a href="http://www.sportsdirect.com/mens/mens-football-boots/mens-pele-sports-football-boots"><u>mens Pele football boots</u></a> at SportsDirect.com<p class="productCode">Product code: 200035</p>
+            </div>
+        </div>
+    
+		</div>
+		
+		
+		
+
+logo producenta
+<img id="BrandLogo" src="images/logos/NewBalance.jpg" alt="New Balance logo"> 
+obraz produktu
+<img id="imgProduct" src="http://images.sportsdirect.com/images/products/21215421_l.jpg" alt="New Balance New Balance M1260 v2 Mens Running Shoes from www.sportsdirect.com">
+		
+#$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$#		
+to buy
+http://www.sportsdirect.com/karrimor-balaclava-905208												kominiarka
+http://www.sportsdirect.com/karrimor-3in1-waterproof-jacket-mens-443217?colcode=44321726			kurtka
+http://www.sportsdirect.com/karrimor-fur-snow-boots-mens-143031?colcode=14303105					buty
+http://www.sportsdirect.com/kangol-leather-gloves-mens-907063										rêkawiczki skórzane
+
+
