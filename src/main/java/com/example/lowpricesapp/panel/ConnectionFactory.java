@@ -12,7 +12,7 @@ import java.sql.Connection;
  * Time: 19:58
  * To change this template use File | Settings | File Templates.
  */
-public class ConnectionFactory implements FactoryBean<Connection> {
+public class ConnectionFactory implements FactoryBean {
 
     @Override
     public Connection getObject() throws Exception {

@@ -8,4 +8,5 @@
 
     <context:component-scan base-package="com.example.lowpricesapp"/>
 
+    <bean class="com.example.lowpricesapp.panel.MainWindow" id="entryPoint"/>
 </beans>

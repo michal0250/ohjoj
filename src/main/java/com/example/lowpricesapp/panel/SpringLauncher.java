@@ -12,9 +12,9 @@ public class SpringLauncher {
         logger.info("===========================================start");
         logger.warn("===========================================start");
 
-        ApplicationContext context = new ClassPathXmlApplicationContext(
+        ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext(
                 "applicationContext.xml");
-        MainWindow mainWindow = context.getBean(MainWindow.class);
+        MainWindow mainWindow = (MainWindow) context.getBean("entryPoint", MainWindow.class);
 
         mainWindow.setVisible(true);
 

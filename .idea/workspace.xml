@@ -1,7 +1,196 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7156fb1d-04d8-4130-a5e2-0e62fc20ed56" name="Default" comment="" />
+    <list default="true" id="7156fb1d-04d8-4130-a5e2-0e62fc20ed56" name="Default" comment="">
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\META-INF\MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\allclasses-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\allclasses-noframe.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\constant-values.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\deprecated-list.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\help-doc.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\index-all.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\Connection.Base.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\Connection.KeyVal.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\Connection.Method.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\Connection.Request.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\Connection.Response.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\Connection.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\HttpStatusException.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\Jsoup.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\UnsupportedMimeTypeException.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\class-use\Connection.Base.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\class-use\Connection.KeyVal.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\class-use\Connection.Method.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\class-use\Connection.Request.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\class-use\Connection.Response.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\class-use\Connection.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\class-use\HttpStatusException.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\class-use\Jsoup.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\class-use\UnsupportedMimeTypeException.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\examples\HtmlToPlainText.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\examples\ListLinks.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\examples\class-use\HtmlToPlainText.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\examples\class-use\ListLinks.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\examples\package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\examples\package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\examples\package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\examples\package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\helper\DataUtil.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\helper\DescendableLinkedList.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\helper\HttpConnection.KeyVal.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\helper\HttpConnection.Request.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\helper\HttpConnection.Response.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\helper\HttpConnection.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\helper\StringUtil.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\helper\Validate.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\helper\class-use\DataUtil.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\helper\class-use\DescendableLinkedList.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\helper\class-use\HttpConnection.KeyVal.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\helper\class-use\HttpConnection.Request.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\helper\class-use\HttpConnection.Response.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\helper\class-use\HttpConnection.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\helper\class-use\StringUtil.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\helper\class-use\Validate.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\helper\package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\helper\package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\helper\package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\helper\package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\nodes\Attribute.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\nodes\Attributes.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\nodes\Comment.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\nodes\DataNode.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\nodes\Document.OutputSettings.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\nodes\Document.QuirksMode.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\nodes\Document.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\nodes\DocumentType.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\nodes\Element.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\nodes\Entities.EscapeMode.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\nodes\Entities.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\nodes\Node.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\nodes\TextNode.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\nodes\XmlDeclaration.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\nodes\class-use\Attribute.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\nodes\class-use\Attributes.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\nodes\class-use\Comment.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\nodes\class-use\DataNode.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\nodes\class-use\Document.OutputSettings.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\nodes\class-use\Document.QuirksMode.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\nodes\class-use\Document.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\nodes\class-use\DocumentType.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\nodes\class-use\Element.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\nodes\class-use\Entities.EscapeMode.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\nodes\class-use\Entities.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\nodes\class-use\Node.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\nodes\class-use\TextNode.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\nodes\class-use\XmlDeclaration.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\nodes\package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\nodes\package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\nodes\package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\nodes\package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\parser\ParseError.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\parser\Parser.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\parser\Tag.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\parser\TokenQueue.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\parser\XmlTreeBuilder.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\parser\class-use\ParseError.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\parser\class-use\Parser.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\parser\class-use\Tag.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\parser\class-use\TokenQueue.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\parser\class-use\XmlTreeBuilder.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\parser\package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\parser\package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\parser\package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\parser\package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\safety\Cleaner.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\safety\Whitelist.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\safety\class-use\Cleaner.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\safety\class-use\Whitelist.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\safety\package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\safety\package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\safety\package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\safety\package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\Collector.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\Elements.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\Evaluator.AllElements.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\Evaluator.Attribute.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\Evaluator.AttributeKeyPair.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\Evaluator.AttributeStarting.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\Evaluator.AttributeWithValue.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\Evaluator.AttributeWithValueContaining.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\Evaluator.AttributeWithValueEnding.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\Evaluator.AttributeWithValueMatching.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\Evaluator.AttributeWithValueNot.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\Evaluator.AttributeWithValueStarting.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\Evaluator.Class.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\Evaluator.ContainsOwnText.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\Evaluator.ContainsText.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\Evaluator.Id.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\Evaluator.IndexEquals.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\Evaluator.IndexEvaluator.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\Evaluator.IndexGreaterThan.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\Evaluator.IndexLessThan.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\Evaluator.Matches.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\Evaluator.MatchesOwn.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\Evaluator.Tag.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\Evaluator.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\NodeTraversor.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\NodeVisitor.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\Selector.SelectorParseException.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\Selector.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\class-use\Collector.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\class-use\Elements.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\class-use\Evaluator.AllElements.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\class-use\Evaluator.Attribute.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\class-use\Evaluator.AttributeKeyPair.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\class-use\Evaluator.AttributeStarting.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\class-use\Evaluator.AttributeWithValue.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\class-use\Evaluator.AttributeWithValueContaining.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\class-use\Evaluator.AttributeWithValueEnding.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\class-use\Evaluator.AttributeWithValueMatching.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\class-use\Evaluator.AttributeWithValueNot.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\class-use\Evaluator.AttributeWithValueStarting.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\class-use\Evaluator.Class.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\class-use\Evaluator.ContainsOwnText.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\class-use\Evaluator.ContainsText.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\class-use\Evaluator.Id.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\class-use\Evaluator.IndexEquals.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\class-use\Evaluator.IndexEvaluator.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\class-use\Evaluator.IndexGreaterThan.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\class-use\Evaluator.IndexLessThan.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\class-use\Evaluator.Matches.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\class-use\Evaluator.MatchesOwn.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\class-use\Evaluator.Tag.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\class-use\Evaluator.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\class-use\NodeTraversor.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\class-use\NodeVisitor.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\class-use\Selector.SelectorParseException.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\class-use\Selector.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\package-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\package-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\package-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\org\jsoup\select\package-use.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\overview-frame.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\overview-summary.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\overview-tree.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\package-list" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\resources\inherit.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\serialized-form.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Java_programy\ohjoj_mwalczak\lib\jsoup-1.7.1-javadoc\stylesheet.css" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_h2database_h2_1_3_168.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_h2database_h2_1_3_168.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LowPricesApp-master.iml" afterPath="$PROJECT_DIR$/LowPricesApp-master.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/example/lowpricesapp/panel/ConnectionFactory.java" afterPath="$PROJECT_DIR$/src/main/java/com/example/lowpricesapp/panel/ConnectionFactory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/example/lowpricesapp/panel/SpringLauncher.java" afterPath="$PROJECT_DIR$/src/main/java/com/example/lowpricesapp/panel/SpringLauncher.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
+    </list>
     <ignored path="lowPriceAppFromRepo.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -61,20 +250,50 @@
       <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="79" selection-start="582" selection-end="582" vertical-scroll-proportion="0.0">
+            <state line="36" column="27" selection-start="1233" selection-end="1233" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SpringLauncher.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/lowpricesapp/panel/SpringLauncher.java">
+      <file leaf-file-name="ConnectionFactory.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/lowpricesapp/panel/ConnectionFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="17" selection-start="593" selection-end="593" vertical-scroll-proportion="0.0">
+            <state line="14" column="53" selection-start="329" selection-end="329" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpringLauncher.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/lowpricesapp/panel/SpringLauncher.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="25" selection-start="725" selection-end="725" vertical-scroll-proportion="0.6115108">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainWindow.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/lowpricesapp/panel/MainWindow.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="13" selection-start="273" selection-end="273" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="applicationContext.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="77" selection-start="664" selection-end="664" vertical-scroll-proportion="-8.5">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="com.intellij.spring.perspectives.SpringBeansStructureEditorProvider">
+            <state />
           </provider>
         </entry>
       </file>
@@ -87,10 +306,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProductDAO.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ProductDAO.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/lowpricesapp/DAO/ProductDAO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="55" selection-start="1712" selection-end="1712" vertical-scroll-proportion="0.18858561">
+            <state line="58" column="53" selection-start="2026" selection-end="2026" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -118,21 +337,19 @@
         <option value="$PROJECT_DIR$/src/com/example/lowpricesapp/DBConnection.java" />
         <option value="$PROJECT_DIR$/src/com/example/lowpricesapp/service/ParseSportDirectPageService.java" />
         <option value="$PROJECT_DIR$/src/com/example/lowpricesapp/DAO/CreateDBDAO.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/com/example/lowpricesapp/panel/SpringLauncher.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/example/lowpricesapp/panel/SpringLauncher.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/lowpricesapp/DAO/ProductDAO.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/lowpricesapp/panel/ConnectionFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/lowpricesapp/panel/SpringLauncher.java" />
       </list>
     </option>
   </component>
   <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="D:\apache-maven-3.0.4" />
-      </MavenGeneralSettings>
-    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
         <option name="keepSourceFolders" value="false" />
       </MavenImportingSettings>
     </option>
@@ -147,10 +364,6 @@
         <PATH_ELEMENT>
           <option name="myItemId" value="LowPricesApp-master" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Dependencies" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
         </PATH_ELEMENT>
       </PATH>
       <PATH>
@@ -172,8 +385,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1218" />
-    <option name="height" value="816" />
+    <option name="width" value="1456" />
+    <option name="height" value="886" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -203,7 +416,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
-    <option name="STATE" value="0" />
+    <option name="STATE" value="2" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -218,6 +431,20 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lowPriceAppFromRepo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LowPricesApp-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -232,7 +459,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="LowPricesApp-master" />
+              <option name="myItemId" value="ohjoj_mwalczak" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -242,13 +469,21 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="LowPricesApp-master" />
+              <option name="myItemId" value="ohjoj_mwalczak" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -256,7 +491,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="LowPricesApp-master" />
+              <option name="myItemId" value="ohjoj_mwalczak" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -278,7 +513,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="LowPricesApp-master" />
+              <option name="myItemId" value="ohjoj_mwalczak" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -304,7 +539,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="LowPricesApp-master" />
+              <option name="myItemId" value="ohjoj_mwalczak" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -324,82 +559,31 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DAO" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lowPriceAppFromRepo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LowPricesApp-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
+              <option name="myItemId" value="panel" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane">
-        <subPane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
           <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lowPriceAppFromRepo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LowPricesApp-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lowPriceAppFromRepo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LowPricesApp-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com.example.lowpricesapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lowPriceAppFromRepo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LowPricesApp-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com.example.lowpricesapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DAO" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.lastSelected" value="reference.projectsettings.compiler.javacompiler" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
@@ -429,6 +613,7 @@
         <option name="BuildArtifacts" enabled="false" />
         <option name="Make" enabled="true" />
         <option name="Maven.BeforeRunTask" enabled="false" />
+        <option name="SBT.BeforeRunTask" enabled="false" action="test:products" runInCurrentModule="true" />
       </method>
     </configuration>
     <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
@@ -455,6 +640,7 @@
         <option name="BuildArtifacts" enabled="false" />
         <option name="Make" enabled="false" />
         <option name="Maven.BeforeRunTask" enabled="false" />
+        <option name="SBT.BeforeRunTask" enabled="false" action="test:products" runInCurrentModule="true" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
@@ -477,6 +663,7 @@
         <option name="BuildArtifacts" enabled="false" />
         <option name="Make" enabled="true" />
         <option name="Maven.BeforeRunTask" enabled="false" />
+        <option name="SBT.BeforeRunTask" enabled="false" action="test:products" runInCurrentModule="true" />
       </method>
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -489,6 +676,7 @@
         <option name="AntTarget" enabled="false" />
         <option name="BuildArtifacts" enabled="false" />
         <option name="Maven.BeforeRunTask" enabled="false" />
+        <option name="SBT.BeforeRunTask" enabled="false" action="test:products" runInCurrentModule="true" />
       </method>
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -522,6 +710,7 @@
         <option name="BuildArtifacts" enabled="false" />
         <option name="Make" enabled="true" />
         <option name="Maven.BeforeRunTask" enabled="false" />
+        <option name="SBT.BeforeRunTask" enabled="false" action="test:products" runInCurrentModule="true" />
       </method>
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -540,6 +729,7 @@
         <option name="BuildArtifacts" enabled="false" />
         <option name="Make" enabled="true" />
         <option name="Maven.BeforeRunTask" enabled="false" />
+        <option name="SBT.BeforeRunTask" enabled="false" action="test:products" runInCurrentModule="true" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -560,6 +750,7 @@
         <option name="BuildArtifacts" enabled="false" />
         <option name="Make" enabled="true" />
         <option name="Maven.BeforeRunTask" enabled="false" />
+        <option name="SBT.BeforeRunTask" enabled="false" action="test:products" runInCurrentModule="true" />
       </method>
     </configuration>
     <configuration default="true" type="com.intellij.dmserver.run.DMServerRunConfigurationType:id" factoryName="Spring dmServer (Local)">
@@ -575,6 +766,7 @@
         <option name="BuildArtifacts" enabled="false" />
         <option name="Make" enabled="true" />
         <option name="Maven.BeforeRunTask" enabled="false" />
+        <option name="SBT.BeforeRunTask" enabled="false" action="test:products" runInCurrentModule="true" />
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -601,6 +793,7 @@
         <option name="BuildArtifacts" enabled="false" />
         <option name="Make" enabled="true" />
         <option name="Maven.BeforeRunTask" enabled="false" />
+        <option name="SBT.BeforeRunTask" enabled="false" action="test:products" runInCurrentModule="true" />
       </method>
     </configuration>
     <configuration default="true" type="com.intellij.dmserver.run.DMServerRunConfigurationType:id" factoryName="Spring dmServer (Remote)">
@@ -624,6 +817,7 @@
         <option name="BuildArtifacts" enabled="false" />
         <option name="Make" enabled="true" />
         <option name="Maven.BeforeRunTask" enabled="false" />
+        <option name="SBT.BeforeRunTask" enabled="false" action="test:products" runInCurrentModule="true" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -644,6 +838,7 @@
         <option name="BuildArtifacts" enabled="false" />
         <option name="Make" enabled="true" />
         <option name="Maven.BeforeRunTask" enabled="false" />
+        <option name="SBT.BeforeRunTask" enabled="false" action="test:products" runInCurrentModule="true" />
       </method>
     </configuration>
     <configuration default="false" name="goSpringGo" type="Application" factoryName="Application">
@@ -711,32 +906,34 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1218" height="816" extended-state="6" />
+    <frame x="-8" y="-8" width="1456" height="886" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32958478" sideWeight="0.7789634" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32958478" sideWeight="0.7789634" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32958478" sideWeight="0.7789634" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.7789634" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32958478" sideWeight="0.7789634" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.7789634" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39817628" sideWeight="0.4970314" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="BSFConsole" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.4970314" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32994062" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32978722" sideWeight="0.4970314" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32826748" sideWeight="0.4970314" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32994062" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.4970314" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32692307" sideWeight="0.4970314" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24924012" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32909244" sideWeight="0.7789634" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39965397" sideWeight="0.7789634" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24766752" sideWeight="0.67021275" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.44224924" sideWeight="0.4965398" order="7" side_tool="false" content_ui="tabs" x="-4" y="660" width="1202" height="301" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="true" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.32994062" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" x="92" y="92" width="700" height="416" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19655667" sideWeight="0.66895604" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39965397" sideWeight="0.7789634" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18364419" sideWeight="0.66895604" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964131" sideWeight="0.66895604" order="7" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33104396" sideWeight="0.4965398" order="7" side_tool="false" content_ui="tabs" x="-4" y="660" width="1202" height="301" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="true" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.32994062" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" x="92" y="92" width="700" height="416" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -799,54 +996,19 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/lowpricesapp/panel/AddProductPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="82" column="42" selection-start="2491" selection-end="2491" vertical-scroll-proportion="1.0742496" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/lowpricesapp/panel/ViewAllProductsPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="134" column="61" selection-start="4906" selection-end="4906" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/lowpricesapp/service/ProductService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="149" column="57" selection-start="4753" selection-end="4753" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/lowpricesapp/panel/ProductPanel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="211" column="22" selection-start="6154" selection-end="6154" vertical-scroll-proportion="0.3222749">
-          <folding />
-        </state>
+        <state line="211" column="22" selection-start="6154" selection-end="6154" vertical-scroll-proportion="0.3222749" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/lowpricesapp/service/ParseSportDirectPageService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="169" column="26" selection-start="6102" selection-end="6102" vertical-scroll-proportion="0.58870965">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_07/src.zip!/java/net/URLClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="368" column="100" selection-start="13690" selection-end="13690" vertical-scroll-proportion="1.0315956">
-          <folding />
-        </state>
+        <state line="169" column="26" selection-start="6102" selection-end="6102" vertical-scroll-proportion="0.58870965" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/lowpricesapp/DBConnection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="18" selection-start="666" selection-end="666" vertical-scroll-proportion="0.45655608">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="79" selection-start="582" selection-end="582" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="22" column="18" selection-start="666" selection-end="666" vertical-scroll-proportion="0.45655608" />
       </provider>
     </entry>
     <entry file="uml://JAVA/com.example.lowpricesapp.panel.SpringLauncher">
@@ -867,9 +1029,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LowPricesApp.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="36" selection-start="1448" selection-end="1448" vertical-scroll-proportion="-2.3838863" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LowPricesApp-master.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="28" selection-start="357" selection-end="357" vertical-scroll-proportion="-0.6032258" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dane o stronach sklepow.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring/2.5.6/spring-2.5.6.jar!/org/springframework/beans/factory/FactoryBean.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="17" selection-start="175" selection-end="175" vertical-scroll-proportion="-2.72">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring/2.5.6/spring-2.5.6-sources.jar!/org/springframework/beans/factory/FactoryBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="17" selection-start="2293" selection-end="2293" vertical-scroll-proportion="0.33235726">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/lowpricesapp/DAO/CreateDBDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="66" selection-start="386" selection-end="386" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/lowpricesapp/DAO/ProductDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="53" selection-start="2026" selection-end="2026" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/lowpricesapp/panel/ConnectionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="53" selection-start="329" selection-end="329" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="27" selection-start="1233" selection-end="1233" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="86" selection-start="595" selection-end="595" vertical-scroll-proportion="0.28333333">
+        <state line="10" column="77" selection-start="664" selection-end="664" vertical-scroll-proportion="-8.5">
           <folding />
         </state>
       </provider>
@@ -877,46 +1096,16 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LowPricesApp.iml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/lowpricesapp/panel/MainWindow.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="36" selection-start="1448" selection-end="1448" vertical-scroll-proportion="-2.3838863">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LowPricesApp-master.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="28" selection-start="357" selection-end="357" vertical-scroll-proportion="-0.6032258">
+        <state line="14" column="13" selection-start="273" selection-end="273" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/lowpricesapp/panel/SpringLauncher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="17" selection-start="593" selection-end="593" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/lowpricesapp/DAO/CreateDBDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="66" selection-start="386" selection-end="386" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dane o stronach sklepow.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/lowpricesapp/DAO/ProductDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="55" selection-start="1712" selection-end="1712" vertical-scroll-proportion="0.18858561">
+        <state line="17" column="25" selection-start="725" selection-end="725" vertical-scroll-proportion="0.6115108">
           <folding />
         </state>
       </provider>
@@ -962,7 +1151,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.6</last-edited>
+          <last-edited>1.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -974,11 +1163,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Spring|LowPricesApp-master</last-edited>
+          <last-edited>LowPricesApp-master</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
